@@ -4,7 +4,10 @@
 
 ## Project Overview
 * ESP8266
-* Some components
+* LCD 1602 w/ I2C attachment
+* 1 LED
+* 3 resistors (about 100ohms)
+* 3 buttons (left most will serve as send/confirm message, middle and right buttons will serve to scroll through messages to select)
 
 This project is a sub project of the Message Thing project with works with [message-thing-service](https://github.com/brandmooffin/message-thing-service).
 
