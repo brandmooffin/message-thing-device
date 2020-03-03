@@ -9,7 +9,7 @@
 * 3 resistors (about 100ohms)
 * 3 buttons (left most will serve as send/confirm message, middle and right buttons will serve to scroll through messages to select)
 
-This project is a sub project of the Message Thing project with works with [message-thing-service](https://github.com/brandmooffin/message-thing-service).
+This project is a sub project of the Message Thing project which works with [message-thing-service](https://github.com/brandmooffin/message-thing-service).
 
 ## Getting Started 
 - Download or clone the repo (or fork it!)
@@ -27,6 +27,7 @@ This project is a sub project of the Message Thing project with works with [mess
     - After that installs completely, search for LiquidCrystal I2C
     - Look for LiquidCrystal I2C by Frank de Brabander and install the library
 - Finally open up the sketch located `message-thing-sketch/message-thing-sketch.ino`
+- Be sure to update `<api-base-url>` with the correct url based on where you have `message-thing-service` deployed
 
 ## Deploy sketch
 - After you have the component connected, connect your ESP8266 via USB
