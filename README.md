@@ -9,7 +9,7 @@
 * 3 resistors (about 100ohms)
 * 3 buttons (left most will serve as send/confirm message, middle and right buttons will serve to scroll through messages to select)
 
-This project is a sub project of the Message Thing project which works with [message-thing-service](https://github.com/brandmooffin/message-thing-service).
+This project is a sub project of the Message Thing project which works with [message-thing-service](https://github.com/brandmooffin/message-thing-service) and [message-thing-android](https://github.com/brandmooffin/message-thing-android).
 
 ## Getting Started 
 - Download or clone the repo (or fork it!)
